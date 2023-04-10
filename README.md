@@ -82,3 +82,7 @@ instantané depuis le dépôt vers la copie de travail (git checkout).
 
 	On créé un répertoire "src" qui contiendra les sources de "Cryptomonnaie.java"
 que l'on créera avec touch Cryptomonnaie.java".
+
+
+
+Nous avons maintenant créé une nouvelle branche de test.
