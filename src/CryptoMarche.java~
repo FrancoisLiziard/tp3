@@ -61,6 +61,7 @@ public class CryptoMarche {
         	if (p.getMonnaie().equals(monnaie))
         	{
         		capitalCrypto += p.valeurEnEuros();
+        		System.out.println(capitalCrypto);
         	}
         }
 
